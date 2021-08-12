@@ -1,0 +1,33 @@
+/**
+* @name Default-Edit
+* @version Auto Update
+* @description Font and color edit of Discord-Default-Theme
+* @author xWalfie
+* @invite 
+* @Source https://github.com/mwittrien/BetterDiscordAddons
+* @website https://betterdiscord.app/theme/BlurpleRecolor
+*/
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
+@import url('https://fonts.googleapis.com/css2?family=Nunito');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--accentcolor: 0,142,194;
+--accentcolor2: 222,64,225;
+--linkcolor: 42,127,220;
+--rs-small-spacing: 0px;
+--rs-medium-spacing: 0px;
+--rs-large-spacing: 0px;
+--rs-small-width: 3px;
+--rs-medium-width: 6px;
+--rs-large-width: 9px;
+--rs-avatar-shape: 25%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #FFFFFFFF;
+--rs-phone-visible: block;
+--customFont: 'Nunito';
+}
