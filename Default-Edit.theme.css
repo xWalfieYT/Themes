@@ -1,13 +1,13 @@
 /**
 * @name Default-Edit
-* @version Auto Update
+* @version 1.0.0
 * @description Font and color edit of Discord-Default-Theme
-* @author xWalfie
+* @author xWalfie#9999
 * @invite 
-* @Source 
+* @Source https://github.com/xWalfieYT/xwalfieyt.github.io
 * @website https://xwalfieyt.github.io
 */
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
+@import url("https://github.com/xWalfieYT/xwalfieyt.github.io");
 @import url('https://fonts.googleapis.com/css2?family=Nunito');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
@@ -28,6 +28,7 @@
 --rs-offline-color: #636b75;
 --rs-streaming-color: #643da7;
 --rs-invisible-color: #FFFFFFFF;
---rs-phone-visible: block;
+--rs-phone-visible: none;
 --customFont: 'Nunito';
+
 }
